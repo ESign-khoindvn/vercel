@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+      {"src": "/(.*)","dest": "https://dns.adguard-dns.com/dns-query"}
+  ]
+}
